@@ -1,2 +1,2 @@
-# atom-preferences
-Repository for my Atom Preferences
+# Atom Preferences
+Repository for my Atom settings, preferences and packages
