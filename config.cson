@@ -1,0 +1,28 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "005f9d0b-7bed-45ec-b985-69e405c7a512"
+  core:
+    themes: [
+      "one-dark-ui"
+      "monokai-seti"
+    ]
+  editor:
+    fontSize: 17
+    invisibles: {}
+    preferredLineLength: 100
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "9ab7afc6-d5a4-d4d3-5f70-dcad3a97b398"
+  linter:
+    showErrorPanel: false
+  minimap:
+    plugins:
+      pigments: true
+  "one-dark-ui": {}
+  wakatime:
+    apikey: "55987ffd-c18f-480f-97ef-3575774bb780"
+  welcome:
+    showOnStartup: false
